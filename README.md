@@ -66,9 +66,13 @@
 # Skills Covered ✅
 
     Containerization with Docker
+    
     Python (Scripting)
+    
     Google Translate API Integration
+    
     Command Line Interface (CLI) for interaction
+    
     Language Translation and Multilingual Capabilities
 
 # Results
